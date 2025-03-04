@@ -11,10 +11,13 @@ const bgImage = {
 const Hero = () => {
   return (
     <main style={bgImage}>
-        <section>
+        <section className="min-h-[750px] w-full">
             <div className="container">
               {/* Navbar Section */}
               <div className='grid grid-cols-1 md:grid-cols-2'>
+                {/* text content section */}
+                {/* Hero image section */}
+                {/* third dev section*/}
               </div>
             </div>
         </section>
