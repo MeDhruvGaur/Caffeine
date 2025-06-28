@@ -22,7 +22,7 @@ const Menu = [
 const Navbar = () => {
   return (
     <>
-      <div className="bg-black text-white">
+      <div className="bg-brandDark text-white">
         <div className="container py-2">
           <div className="flex justify-between items-center">
             {/* Logo section */}
